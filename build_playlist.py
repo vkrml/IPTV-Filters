@@ -2,92 +2,130 @@ import requests
 import json
 import re
 from pathlib import Path
+import urllib3
 
-UA = {
-    "User-Agent": "OTT Navigator/1.6.5 (Linux;Android 12)"
+urllib3.disable_warnings()
+
+HEADERS = {
+    "User-Agent": "OTT Navigator/1.6.7 (Linux; Android 12)",
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive"
 }
 
-BASE = Path(".")
-OUTPUT = BASE / "output"
-OUTPUT.mkdir(exist_ok=True)
+OUTPUT_DIR = Path("output")
+OUTPUT_DIR.mkdir(exist_ok=True)
 
-def normalize(s):
-    return re.sub(r'[^a-z0-9]', '', s.lower())
+# ---------- NORMALIZER (CRITICAL) ----------
+def normalize(text):
+    if not text:
+        return ""
 
-# Load channels master data
+    text = text.upper().strip()
+
+    # Remove language prefixes
+    text = re.sub(r'^(HINDI|IN)\s*-\s*', '', text)
+
+    # Replace AND → &
+    text = text.replace("AND TV", "&TV")
+    text = text.replace("AND PICTURES", "&PICTURES")
+    text = text.replace("AND XPLOR", "&XPLOLOR")
+    text = text.replace("AND", "&")
+
+    # Remove symbols
+    text = re.sub(r'[◉²™®]', '', text)
+
+    # Remove junk words
+    text = re.sub(r'\b(LIVE|CHANNEL|INDIA)\b', '', text)
+
+    # Remove spaces & non-alphanum
+    text = re.sub(r'[^A-Z0-9&]', '', text)
+
+    return text.lower()
+
+# ---------- LOAD MASTER CHANNELS ----------
 with open("indian-channels.json", "r", encoding="utf-8") as f:
-    data = json.load(f)["channels"]
+    channels = json.load(f)["channels"]
 
-channels_index = {}
-for ch in data:
+search_index = []
+for ch in channels:
     keys = set()
     keys.add(normalize(ch["name"]))
     for a in ch.get("aliases", []):
         keys.add(normalize(a))
-    for t in ch.get("tvgIds", []):
-        keys.add(normalize(t))
-    for k in keys:
-        channels_index[k] = ch
+    search_index.append((ch, keys))
 
-found = {}
+found_lcn = set()
 final_entries = []
 
-# Read playlists
+# ---------- READ PLAYLIST URLS ----------
 with open("playlists.txt") as f:
-    urls = [l.strip() for l in f if l.strip()]
+    urls = [u.strip() for u in f if u.strip()]
 
 for url in urls:
     print("Fetching:", url)
     try:
-        r = requests.get(url, headers=UA, timeout=20)
+        r = requests.get(
+            url,
+            headers=HEADERS,
+            timeout=30,
+            allow_redirects=True,
+            verify=False
+        )
         if r.status_code != 200:
+            print("HTTP error:", r.status_code)
             continue
-        content = r.text.splitlines()
+        lines = r.text.splitlines()
     except Exception as e:
-        print("Failed:", e)
+        print("Download failed:", e)
         continue
 
-    current_extinf = None
+    extinf = None
 
-    for line in content:
+    for line in lines:
         if line.startswith("#EXTINF"):
-            current_extinf = line
-        elif line.startswith("http") and current_extinf:
-            name_match = re.search(r',(.+)$', current_extinf)
-            tvg_id = re.search(r'tvg-id="([^"]*)"', current_extinf)
-            tvg_logo = re.search(r'tvg-logo="([^"]*)"', current_extinf)
+            extinf = line
+            continue
 
-            name = name_match.group(1).strip() if name_match else ""
-            key = normalize(name)
+        if not line.startswith("http") or not extinf:
+            continue
 
-            if key not in channels_index:
+        # Extract channel name
+        name_match = re.search(r',(.+)$', extinf)
+        if not name_match:
+            extinf = None
+            continue
+
+        raw_name = name_match.group(1).strip()
+        norm_name = normalize(raw_name)
+
+        for ch, keys in search_index:
+            if ch["lcn"] in found_lcn:
                 continue
 
-            ch = channels_index[key]
-            if ch["lcn"] in found:
-                continue  # already found from higher priority playlist
+            if any(k in norm_name or norm_name in k for k in keys):
+                found_lcn.add(ch["lcn"])
 
-            found[ch["lcn"]] = True
+                entry = (
+                    f'#EXTINF:-1 '
+                    f'tvg-name="{ch["name"]}" '
+                    f'group-title="{ch["category"]}",'
+                    f'{ch["lcn"]}. {ch["name"]}\n'
+                    f'{line}\n'
+                )
 
-            entry = (
-                f'#EXTINF:-1 tvg-id="{ch["tvgIds"][0]}" '
-                f'tvg-name="{ch["name"]}" '
-                f'tvg-logo="{tvg_logo.group(1) if tvg_logo else ""}" '
-                f'group-title="{ch["category"]}",'
-                f'{ch["lcn"]}. {ch["name"]}\n'
-                f'{line}\n'
-            )
+                final_entries.append((ch["lcn"], entry))
+                print("MATCH:", raw_name, "->", ch["name"])
+                break
 
-            final_entries.append((ch["lcn"], entry))
-            current_extinf = None
+        extinf = None
 
-# Sort by LCN
+# ---------- SORT & WRITE ----------
 final_entries.sort(key=lambda x: x[0])
 
-# Write final playlist
-with open(OUTPUT / "final.m3u", "w", encoding="utf-8") as f:
+with open(OUTPUT_DIR / "final.m3u", "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
     for _, entry in final_entries:
         f.write(entry)
 
-print("DONE. Channels:", len(final_entries))
+print("DONE. Channels found:", len(final_entries))
