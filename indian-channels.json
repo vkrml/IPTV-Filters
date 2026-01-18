@@ -4,13 +4,7 @@
     "languages": ["Hindi", "Punjabi"],
     "version": "1.0"
   },
-
   "channels": [
-
-    /* =========================
-       HINDI – GEC
-    ========================= */
-
     { "lcn": 1, "name": "Star Plus", "aliases": ["star plus", "starplus"], "category": "Hindi GEC" },
     { "lcn": 2, "name": "Star Plus HD", "aliases": ["star plus hd", "starplushd"], "category": "Hindi GEC" },
     { "lcn": 3, "name": "Star Bharat", "aliases": ["star bharat"], "category": "Hindi GEC" },
@@ -30,40 +24,18 @@
     { "lcn": 19, "name": "Zee Anmol", "aliases": ["zee anmol"], "category": "Hindi GEC" },
     { "lcn": 20, "name": "Big Magic", "aliases": ["big magic"], "category": "Hindi GEC" },
     { "lcn": 26, "name": "Star Utsav", "aliases": ["star utsav"], "category": "Hindi GEC" },
-    { "lcn": 32, "name": "DD National", "aliases": ["dd national", "doordarshan"], "category": "Hindi GEC" },
-
-    /* =========================
-       HINDI – MOVIES
-    ========================= */
+    { "lcn": 32, "name": "DD National", "aliases": ["dd national"], "category": "Hindi GEC" },
 
     { "lcn": 170, "name": "Star Gold", "aliases": ["star gold"], "category": "Hindi Movies" },
     { "lcn": 171, "name": "Star Gold HD", "aliases": ["star gold hd"], "category": "Hindi Movies" },
     { "lcn": 172, "name": "Star Gold 2", "aliases": ["star gold 2"], "category": "Hindi Movies" },
     { "lcn": 173, "name": "Sony Max", "aliases": ["sony max", "set max"], "category": "Hindi Movies" },
-    { "lcn": 174, "name": "Sony Max HD", "aliases": ["sony max hd", "set max hd"], "category": "Hindi Movies" },
+    { "lcn": 174, "name": "Sony Max HD", "aliases": ["sony max hd"], "category": "Hindi Movies" },
     { "lcn": 175, "name": "Zee Cinema", "aliases": ["zee cinema"], "category": "Hindi Movies" },
     { "lcn": 176, "name": "Zee Cinema HD", "aliases": ["zee cinema hd"], "category": "Hindi Movies" },
-    { "lcn": 177, "name": "&Xplor HD", "aliases": ["&xplor hd", "and xplor"], "category": "Hindi Movies" },
-    { "lcn": 179, "name": "Colors Cineplex Superhit", "aliases": ["cineplex superhit"], "category": "Hindi Movies" },
-    { "lcn": 180, "name": "&Pictures", "aliases": ["&pictures", "and pictures"], "category": "Hindi Movies" },
+    { "lcn": 177, "name": "&Xplor HD", "aliases": ["&xplor hd"], "category": "Hindi Movies" },
+    { "lcn": 180, "name": "&Pictures", "aliases": ["&pictures"], "category": "Hindi Movies" },
     { "lcn": 181, "name": "&Pictures HD", "aliases": ["&pictures hd"], "category": "Hindi Movies" },
-    { "lcn": 182, "name": "Goldmines Movies", "aliases": ["goldmines"], "category": "Hindi Movies" },
-    { "lcn": 183, "name": "UTV Movies", "aliases": ["utv movies"], "category": "Hindi Movies" },
-    { "lcn": 184, "name": "UTV Movies HD", "aliases": ["utv hd"], "category": "Hindi Movies" },
-    { "lcn": 185, "name": "Colors Cineplex", "aliases": ["colors cineplex"], "category": "Hindi Movies" },
-    { "lcn": 186, "name": "Colors Cineplex HD", "aliases": ["colors cineplex hd"], "category": "Hindi Movies" },
-    { "lcn": 189, "name": "Sony Max 2", "aliases": ["sony max 2"], "category": "Hindi Movies" },
-    { "lcn": 193, "name": "Star Gold Select", "aliases": ["star gold select"], "category": "Hindi Movies" },
-    { "lcn": 194, "name": "Star Gold Select HD", "aliases": ["star gold select hd"], "category": "Hindi Movies" },
-    { "lcn": 195, "name": "Zee Bollywood", "aliases": ["zee bollywood"], "category": "Hindi Movies" },
-    { "lcn": 196, "name": "Star Utsav Movies", "aliases": ["star utsav movies"], "category": "Hindi Movies" },
-    { "lcn": 197, "name": "Sony Wah", "aliases": ["sony wah"], "category": "Hindi Movies" },
-    { "lcn": 199, "name": "Zee Anmol Cinema", "aliases": ["zee anmol cinema"], "category": "Hindi Movies" },
-    { "lcn": 200, "name": "Zee Classic", "aliases": ["zee classic"], "category": "Hindi Movies" },
-
-    /* =========================
-       HINDI – NEWS
-    ========================= */
 
     { "lcn": 301, "name": "Republic Bharat", "aliases": ["republic bharat"], "category": "Hindi News" },
     { "lcn": 302, "name": "ABP News", "aliases": ["abp news"], "category": "Hindi News" },
@@ -71,48 +43,21 @@
     { "lcn": 304, "name": "Aaj Tak", "aliases": ["aaj tak"], "category": "Hindi News" },
     { "lcn": 305, "name": "Aaj Tak HD", "aliases": ["aaj tak hd"], "category": "Hindi News" },
     { "lcn": 306, "name": "Zee News", "aliases": ["zee news"], "category": "Hindi News" },
-    { "lcn": 307, "name": "News18 India", "aliases": ["news18 india"], "category": "Hindi News" },
-    { "lcn": 308, "name": "TV9 Bharatvarsh", "aliases": ["tv9 bharatvarsh"], "category": "Hindi News" },
-    { "lcn": 309, "name": "News Nation", "aliases": ["news nation"], "category": "Hindi News" },
-    { "lcn": 310, "name": "Times Now Navbharat", "aliases": ["times now navbharat"], "category": "Hindi News" },
-    { "lcn": 311, "name": "Times Now Navbharat HD", "aliases": ["times now navbharat hd"], "category": "Hindi News" },
-    { "lcn": 312, "name": "News 24", "aliases": ["news 24"], "category": "Hindi News" },
     { "lcn": 316, "name": "NDTV India", "aliases": ["ndtv india"], "category": "Hindi News" },
-    { "lcn": 317, "name": "Zee Hindustan", "aliases": ["zee hindustan"], "category": "Hindi News" },
-    { "lcn": 318, "name": "India News", "aliases": ["india news"], "category": "Hindi News" },
-    { "lcn": 320, "name": "Sansad TV", "aliases": ["sansad tv"], "category": "Hindi News" },
-    { "lcn": 321, "name": "Sansad TV HD", "aliases": ["sansad tv hd"], "category": "Hindi News" },
     { "lcn": 323, "name": "DD News", "aliases": ["dd news"], "category": "Hindi News" },
 
-    /* =========================
-       PUNJABI – MUSIC
-    ========================= */
-
     { "lcn": 71, "name": "PTC Music", "aliases": ["ptc music"], "category": "Punjabi Music" },
-    { "lcn": 72, "name": "PTC Music HD", "aliases": ["ptc music hd"], "category": "Punjabi Music" },
     { "lcn": 73, "name": "PTC Chakde", "aliases": ["ptc chakde"], "category": "Punjabi Music" },
-    { "lcn": 74, "name": "PTC Chakde HD", "aliases": ["ptc chakde hd"], "category": "Punjabi Music" },
     { "lcn": 75, "name": "MH1 Music", "aliases": ["mh1 music"], "category": "Punjabi Music" },
     { "lcn": 76, "name": "9X Tashan", "aliases": ["9x tashan"], "category": "Punjabi Music" },
 
-    /* =========================
-       PUNJABI – ENTERTAINMENT / MOVIES
-    ========================= */
-
     { "lcn": 88, "name": "PTC Punjabi", "aliases": ["ptc punjabi"], "category": "Punjabi Entertainment" },
     { "lcn": 89, "name": "PTC Punjabi HD", "aliases": ["ptc punjabi hd"], "category": "Punjabi Entertainment" },
-    { "lcn": 96, "name": "PTC Punjabi Gold", "aliases": ["ptc punjabi gold"], "category": "Punjabi Movies" },
-    { "lcn": 97, "name": "PTC Punjabi Gold HD", "aliases": ["ptc punjabi gold hd"], "category": "Punjabi Movies" },
     { "lcn": 99, "name": "Zee Punjabi", "aliases": ["zee punjabi"], "category": "Punjabi Entertainment" },
-
-    /* =========================
-       PUNJABI – NEWS
-    ========================= */
 
     { "lcn": 112, "name": "PTC News", "aliases": ["ptc news"], "category": "Punjabi News" },
     { "lcn": 114, "name": "News18 Punjab", "aliases": ["news18 punjab"], "category": "Punjabi News" },
     { "lcn": 117, "name": "MH1 News", "aliases": ["mh1 news"], "category": "Punjabi News" },
     { "lcn": 118, "name": "Zee Punjab", "aliases": ["zee punjab"], "category": "Punjabi News" }
-
   ]
 }
