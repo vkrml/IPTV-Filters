@@ -27,10 +27,22 @@ jobs:
         run: |
           python build_playlist.py
 
+      - name: Debug files
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Files:"
+          ls -la
+
       - name: Commit & push channels.m3u
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add channels.m3u
-          git commit -m "Update IPTV playlist" || echo "No changes"
-          git push
+          if [ -f channels.m3u ]; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add channels.m3u
+            git commit -m "Update IPTV playlist" || echo "No changes to commit"
+            git push
+          else
+            echo "channels.m3u NOT FOUND"
+            exit 1
+          fi
