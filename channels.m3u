@@ -1,45 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="" group-title="Hindi GEC",Star Plus HD
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=72143
-#EXTINF:-1 tvg-id="" tvg-name="Star Bharat HD" tvg-logo="" group-title="Hindi GEC",Star Bharat HD
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=1019858
 #EXTINF:-1 tvg-id="" tvg-name="Sony Entertainment Television HD" tvg-logo="" group-title="Hindi GEC",Sony Entertainment Television HD
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=72146
+https://allinonereborn.xyz/trx.m3u8/live3.php?id=1020698
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="" group-title="Hindi GEC",Colors HD
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=72156
+https://allinonereborn.xyz/trx.m3u8/live3.php?id=1020700
 #EXTINF:-1 tvg-id="" tvg-name="Zee TV HD" tvg-logo="" group-title="Hindi GEC",Zee TV HD
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=72135
-#EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD" tvg-logo="" group-title="Hindi GEC",Sony SAB HD
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=72150
-#EXTINF:-1 tvg-id="" tvg-name="Colors Rishtey" tvg-logo="" group-title="Hindi GEC",Colors Rishtey
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=510232
+https://allinonereborn.xyz/trx.m3u8/live3.php?id=1019844
+#EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="" group-title="Hindi GEC",&TV HD
+https://allinonereborn.xyz/trx.m3u8/live3.php?id=72166
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="" group-title="Hindi GEC",Sony Pal
 https://allinonereborn.xyz/trx.m3u8/live3.php?id=72151
-#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="" group-title="Hindi GEC",Zee Anmol
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=72245
+#EXTINF:-1 tvg-id="" tvg-name="Big Magic" tvg-logo="" group-title="Hindi GEC",Big Magic
+https://allinonereborn.xyz/trx.m3u8/live3.php?id=72173
 #EXTINF:-1 tvg-id="" tvg-name="Star Utsav" tvg-logo="" group-title="Hindi GEC",Star Utsav
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=1019859
-#EXTINF:-1 tvg-id="" tvg-name="DD National" tvg-logo="" group-title="Hindi GEC",DD National
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=72180
-#EXTINF:-1 tvg-id="" tvg-name="9X Tashan" tvg-logo="" group-title="Punjabi Music",9X Tashan
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=809074
+https://allinonereborn.xyz/trx.m3u8/live3.php?id=72144
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="" group-title="Hindi Movies",Star Gold HD
 https://allinonereborn.xyz/trx.m3u8/live3.php?id=1020176
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold 2" tvg-logo="" group-title="Hindi Movies",Star Gold 2
 https://allinonereborn.xyz/trx.m3u8/live3.php?id=510292
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="" group-title="Hindi Movies",Sony Max HD
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=1020708
+https://allinonereborn.xyz/trx.m3u8/live3.php?id=1020170
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=1020200
+https://allinonereborn.xyz/trx.m3u8/live3.php?id=72136
 #EXTINF:-1 tvg-id="" tvg-name="&Pictures HD" tvg-logo="" group-title="Hindi Movies",&Pictures HD
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=1020163
+https://allinonereborn.xyz/trx.m3u8/live3.php?id=510226
 #EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="" group-title="Hindi News",Republic Bharat
 https://allinonereborn.xyz/trx.m3u8/live3.php?id=167200
-#EXTINF:-1 tvg-id="" tvg-name="ABP News" tvg-logo="" group-title="Hindi News",ABP News
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=72163
 #EXTINF:-1 tvg-id="" tvg-name="Aaj Tak HD" tvg-logo="" group-title="Hindi News",Aaj Tak HD
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=72158
-#EXTINF:-1 tvg-id="" tvg-name="Zee News" tvg-logo="" group-title="Hindi News",Zee News
-https://allinonereborn.xyz/trx.m3u8/live3.php?id=72248
+https://allinonereborn.xyz/trx.m3u8/live3.php?id=809018
 #EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="" group-title="Hindi News",DD News
 https://allinonereborn.xyz/trx.m3u8/live3.php?id=72186
