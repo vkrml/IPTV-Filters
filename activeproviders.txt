@@ -1,0 +1,4006 @@
+Active Playlist Scan - 2026-01-24 13:39:31 IST
+==================================================
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56931036730playtv&password=160224playtv&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56931036730playtv
+Password: 160224playtv
+Status: Active
+Exp Date: 2026-02-07 07:11:22 IST
+Connections: 6 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=jdburnettejr2@gmail.com&password=jdburnettejr2@2024&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: jdburnettejr2@gmail.com
+Password: jdburnettejr2@2024
+Status: Active
+Exp Date: 2026-02-09 08:43:42 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Mn59247hgR&password=74859GH738FE&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Mn59247hgR
+Password: 74859GH738FE
+Status: Active
+Exp Date: 2026-02-11 06:31:07 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=chrismom&password=uTs3KphrGL6N&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: chrismom
+Password: uTs3KphrGL6N
+Status: Active
+Exp Date: 2026-02-14 06:46:09 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Limoncinas&password=WQe5tWnv89JH&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Limoncinas
+Password: WQe5tWnv89JH
+Status: Active
+Exp Date: 2026-02-15 07:06:50 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=AleHem24&password=H3m628&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: AleHem24
+Password: H3m628
+Status: Active
+Exp Date: 2026-02-03 01:40:01 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=chemi62&password=4AADnWRtqR&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: chemi62
+Password: 4AADnWRtqR
+Status: Active
+Exp Date: 2026-02-04 07:02:55 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=nita007&password=hwcewjxbjy&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: nita007
+Password: hwcewjxbjy
+Status: Active
+Exp Date: 2026-02-24 05:29:59 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP019381745208757400&password=58b51a8fa44d&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP019381745208757400
+Password: 58b51a8fa44d
+Status: Active
+Exp Date: 2026-04-21 09:42:37 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=vettezr@sccoast.net&password=AyxnfrBhRR&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: vettezr@sccoast.net
+Password: AyxnfrBhRR
+Status: Active
+Exp Date: 2026-09-22 03:57:28 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Cleitonlaurinda5&password=3103Cl&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Cleitonlaurinda5
+Password: 3103Cl
+Status: Active
+Exp Date: 2026-02-10 20:57:55 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56942996043tch&password=170225tch&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56942996043tch
+Password: 170225tch
+Status: Active
+Exp Date: 2026-02-05 02:27:25 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=lisker467&password=sUnERwq4GE4L&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: lisker467
+Password: sUnERwq4GE4L
+Status: Active
+Exp Date: 2026-02-10 06:34:06 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Ealcaraz&password=puthLtZcyDTS&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Ealcaraz
+Password: puthLtZcyDTS
+Status: Active
+Exp Date: 2026-02-06 05:09:13 IST
+Connections: 2 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=nChFS9&password=388297&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: nChFS9
+Password: 388297
+Status: Active
+Exp Date: 2026-05-06 06:56:56 IST
+Connections: 1 / 10
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=chapomendoza&password=33WUGmdhsYzh&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: chapomendoza
+Password: 33WUGmdhsYzh
+Status: Active
+Exp Date: 2026-02-25 07:06:31 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=Richard26323&password=Bqd29goW3z&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: Richard26323
+Password: Bqd29goW3z
+Status: Active
+Exp Date: 2026-04-09 12:29:30 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=kfKq92&password=127650&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: kfKq92
+Password: 127650
+Status: Active
+Exp Date: 2026-12-09 10:30:00 IST
+Connections: 1 / 8
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=cesar2135&password=w5TZUDRMyaNS&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: cesar2135
+Password: w5TZUDRMyaNS
+Status: Active
+Exp Date: 2026-02-11 08:25:59 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=907639688&password=eduar19doFER&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: 907639688
+Password: eduar19doFER
+Status: Active
+Exp Date: 2026-02-08 09:15:12 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Cristina26&password=h8hgNmJg3VG3&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Cristina26
+Password: h8hgNmJg3VG3
+Status: Active
+Exp Date: 2026-07-26 07:28:21 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=my36Pz&password=188335&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: my36Pz
+Password: 188335
+Status: Active
+Exp Date: 2026-08-18 09:30:00 IST
+Connections: 2 / 8
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=hector.ayala24&password=8fMdtyag4JGs&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: hector.ayala24
+Password: 8fMdtyag4JGs
+Status: Active
+Exp Date: 2026-04-12 20:32:03 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=wellingtonpereira&password=515255maaac&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: wellingtonpereira
+Password: 515255maaac
+Status: Active
+Exp Date: 2026-02-20 05:29:59 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56942557842play&password=play200323&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56942557842play
+Password: play200323
+Status: Active
+Exp Date: 2026-03-25 05:43:00 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=kp1ukG&password=485402&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: kp1ukG
+Password: 485402
+Status: Active
+Exp Date: 2026-10-11 09:30:00 IST
+Connections: 0 / 8
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Ramiro347&password=FBph9St2ddQh&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Ramiro347
+Password: FBph9St2ddQh
+Status: Active
+Exp Date: 2026-05-19 04:02:59 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=janice.fletcher@cmcss.net&password=9gYhEzZvA9&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: janice.fletcher@cmcss.net
+Password: 9gYhEzZvA9
+Status: Active
+Exp Date: 2026-10-30 08:25:38 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=yR5JZD&password=546999&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: yR5JZD
+Password: 546999
+Status: Active
+Exp Date: 2026-02-14 10:30:00 IST
+Connections: 2 / 10
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56967970882tch&password=170525tch&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56967970882tch
+Password: 170525tch
+Status: Active
+Exp Date: 2026-01-31 04:56:45 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=valmirpinheiro&password=pinheiro34&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: valmirpinheiro
+Password: pinheiro34
+Status: Active
+Exp Date: 2026-04-17 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=rambo23&password=99q7Em63FjMu&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: rambo23
+Password: 99q7Em63FjMu
+Status: Active
+Exp Date: 2026-03-23 07:23:09 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP0142175180225374&password=ipkwvrpzkz5y&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP0142175180225374
+Password: ipkwvrpzkz5y
+Status: Active
+Exp Date: 2026-07-06 17:14:13 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Ze290624&password=tv8899546778&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Ze290624
+Password: tv8899546778
+Status: Active
+Exp Date: 2026-02-04 22:47:15 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=TEDEcLjreP&password=77MQ6DW9jP&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: TEDEcLjreP
+Password: 77MQ6DW9jP
+Status: Active
+Exp Date: 2027-01-15 02:48:04 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=renatodf&password=05031982denovo&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: renatodf
+Password: 05031982denovo
+Status: Active
+Exp Date: 2026-03-24 02:13:00 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Pita77&password=x6gnfrt4mWVc&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Pita77
+Password: x6gnfrt4mWVc
+Status: Active
+Exp Date: 2026-02-04 04:14:17 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=john@welsh23&password=john@2022&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: john@welsh23
+Password: john@2022
+Status: Active
+Exp Date: 2026-04-02 22:43:47 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Narcisox910&password=BK6jAMc53qmU&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Narcisox910
+Password: BK6jAMc53qmU
+Status: Active
+Exp Date: 2026-11-15 06:42:09 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=6Y7SBEpgv2&password=6HktnHDSxJ&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: 6Y7SBEpgv2
+Password: 6HktnHDSxJ
+Status: Active
+Exp Date: 2026-09-22 10:11:52 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=luismendozatx&password=wVH9CuLdKK&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: luismendozatx
+Password: wVH9CuLdKK
+Status: Active
+Exp Date: 2026-02-21 09:11:14 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=NorbertoU10&password=eYrX7Jzdwug7&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: NorbertoU10
+Password: eYrX7Jzdwug7
+Status: Active
+Exp Date: 2026-03-23 08:19:02 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=94807910&password=94807910&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 94807910
+Password: 94807910
+Status: Active
+Exp Date: 2026-02-07 06:10:37 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=NermanKesegic25&password=bd1tdNa9Vg&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: NermanKesegic25
+Password: bd1tdNa9Vg
+Status: Active
+Exp Date: 2026-03-04 16:28:37 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=li2910&password=li29102022&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: li2910
+Password: li29102022
+Status: Active
+Exp Date: 2026-04-08 03:28:18 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=monterrey1212&password=x24fC7yUsCnX&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: monterrey1212
+Password: x24fC7yUsCnX
+Status: Active
+Exp Date: 2026-03-22 04:14:51 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56990514606play&password=070124play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56990514606play
+Password: 070124play
+Status: Active
+Exp Date: 2026-01-25 02:42:00 IST
+Connections: 3 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=58755412&password=58755412&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 58755412
+Password: 58755412
+Status: Active
+Exp Date: 2026-03-25 03:37:52 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Gcshaw&password=wNv23TmKh87c&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Gcshaw
+Password: wNv23TmKh87c
+Status: Active
+Exp Date: 2027-01-22 07:13:45 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=j5f1eG&password=915651&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: j5f1eG
+Password: 915651
+Status: Active
+Exp Date: 2026-04-05 09:30:00 IST
+Connections: 1 / 10
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Albertobsn&password=DN2VRMC2MmcL&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Albertobsn
+Password: DN2VRMC2MmcL
+Status: Active
+Exp Date: 2026-04-08 02:25:13 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=mike@britten&password=330@033&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: mike@britten
+Password: 330@033
+Status: Active
+Exp Date: 2026-03-13 20:50:04 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56948919821wspzero&password=HPrDUEBgQU&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56948919821wspzero
+Password: HPrDUEBgQU
+Status: Active
+Exp Date: 2026-01-28 21:09:51 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP01341171939597586&password=2f33a23300bd&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP01341171939597586
+Password: 2f33a23300bd
+Status: Active
+Exp Date: 2026-09-26 15:29:35 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=chuyreve&password=pq9VGGgLMmKq&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: chuyreve
+Password: pq9VGGgLMmKq
+Status: Active
+Exp Date: 2026-02-04 06:41:02 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Jaimehdz16&password=BQv4GBB7WREE&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Jaimehdz16
+Password: BQv4GBB7WREE
+Status: Active
+Exp Date: 2026-02-09 08:32:18 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Isabellatv&password=Tem93h&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Isabellatv
+Password: Tem93h
+Status: Active
+Exp Date: 2026-02-06 00:01:36 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP015451754327685534&password=d136a4cb6f22&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP015451754327685534
+Password: d136a4cb6f22
+Status: Active
+Exp Date: 2026-02-04 23:44:45 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=SUN1&password=K9rLEumQct&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: SUN1
+Password: K9rLEumQct
+Status: Active
+Exp Date: 2026-02-05 20:17:13 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=jaubele69&password=tCBB927N9NzS&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: jaubele69
+Password: tCBB927N9NzS
+Status: Active
+Exp Date: 2026-04-25 06:10:50 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://streamingtv.vip:8080/get.php?username=Ndnrb948486263bsc&password=727etsbnd709&type=m3u_plus
+Host: http://streamingtv.vip:8080
+Username: Ndnrb948486263bsc
+Password: 727etsbnd709
+Status: Active
+Exp Date: Unlimited/Unknown
+Connections: 40 / 200
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Pepecastrop&password=SsfTAScmhJt5&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Pepecastrop
+Password: SsfTAScmhJt5
+Status: Active
+Exp Date: 2026-01-25 09:07:29 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=0AqJuj&password=750185&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 0AqJuj
+Password: 750185
+Status: Active
+Exp Date: 2026-05-19 09:30:00 IST
+Connections: 0 / 8
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Acepeda&password=pVKshgZpPT9x&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Acepeda
+Password: pVKshgZpPT9x
+Status: Active
+Exp Date: 2026-04-02 06:58:02 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Val1&password=zgTamvDz4apN&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Val1
+Password: zgTamvDz4apN
+Status: Active
+Exp Date: 2026-02-06 01:58:10 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=mlpreston@carilionclinic.org&password=iEdEnbTyiK&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: mlpreston@carilionclinic.org
+Password: iEdEnbTyiK
+Status: Active
+Exp Date: 2026-02-27 03:10:39 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=rhEjizwCSf&password=N3jNQekovM&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: rhEjizwCSf
+Password: N3jNQekovM
+Status: Active
+Exp Date: 2026-02-09 07:45:47 IST
+Connections: 2 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Andy1601&password=GGLR2NScch27&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Andy1601
+Password: GGLR2NScch27
+Status: Active
+Exp Date: 2026-02-18 04:04:12 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=595982101986py&password=181224play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 595982101986py
+Password: 181224play
+Status: Active
+Exp Date: 2026-03-17 20:10:32 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=angelhuerta2024&password=mCReStS6YND5&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: angelhuerta2024
+Password: mCReStS6YND5
+Status: Active
+Exp Date: 2026-03-08 03:19:35 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP011791737745852317&password=376656a9fd08&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP011791737745852317
+Password: 376656a9fd08
+Status: Active
+Exp Date: 2026-04-24 23:40:52 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=lornecrich@hotmail.ca&password=111480@084111&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: lornecrich@hotmail.ca
+Password: 111480@084111
+Status: Active
+Exp Date: 2026-03-25 20:24:07 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=vdYD98&password=348618&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: vdYD98
+Password: 348618
+Status: Active
+Exp Date: 2026-04-01 09:30:00 IST
+Connections: 3 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=xWP0a5&password=674148&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: xWP0a5
+Password: 674148
+Status: Active
+Exp Date: 2026-03-01 10:30:00 IST
+Connections: 3 / 8
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=alex784&password=64992899471&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: alex784
+Password: 64992899471
+Status: Active
+Exp Date: 2026-02-08 23:37:01 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=81872049tv&password=ggastonn11&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: 81872049tv
+Password: ggastonn11
+Status: Active
+Exp Date: 2026-02-14 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=lauraruiz25&password=9tYVWsUmQRfN&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: lauraruiz25
+Password: 9tYVWsUmQRfN
+Status: Active
+Exp Date: 2026-02-04 01:19:02 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=Corey1&password=EF5m9t7VRB&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: Corey1
+Password: EF5m9t7VRB
+Status: Active
+Exp Date: 2026-02-16 06:45:10 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=AlbeRo77&password=EV5PUs4Jb62x&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: AlbeRo77
+Password: EV5PUs4Jb62x
+Status: Active
+Exp Date: 2026-02-12 22:29:04 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=xceptional30@gmail.com&password=xceptional30@2023&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: xceptional30@gmail.com
+Password: xceptional30@2023
+Status: Active
+Exp Date: 2026-01-30 05:50:11 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=iventhis&password=7g3h7YGPmtAq&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: iventhis
+Password: 7g3h7YGPmtAq
+Status: Active
+Exp Date: 2026-02-14 10:25:27 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Chio&password=KRn9qWMkQRva&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Chio
+Password: KRn9qWMkQRva
+Status: Active
+Exp Date: 2026-03-18 04:19:01 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=ROBERTO&password=3rs9FxtYKuYY&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: ROBERTO
+Password: 3rs9FxtYKuYY
+Status: Active
+Exp Date: 2026-01-27 22:28:28 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=951584359tv&password=e194m2&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: 951584359tv
+Password: e194m2
+Status: Active
+Exp Date: 2026-03-23 20:30:37 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP014741741791708368&password=dd3d1441349e&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP014741741791708368
+Password: dd3d1441349e
+Status: Active
+Exp Date: 2026-04-12 19:31:48 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Vargas54&password=7Eq4HD9JumZG&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Vargas54
+Password: 7Eq4HD9JumZG
+Status: Active
+Exp Date: 2026-04-17 09:24:04 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=javier66&password=xXRwm3ADtU&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: javier66
+Password: xXRwm3ADtU
+Status: Active
+Exp Date: 2026-02-11 21:05:54 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=JuanQ&password=NWnFAVUhvyLe&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: JuanQ
+Password: NWnFAVUhvyLe
+Status: Active
+Exp Date: 2026-07-05 00:28:40 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=ja5mJ1&password=413715&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: ja5mJ1
+Password: 413715
+Status: Active
+Exp Date: 2026-06-26 09:30:00 IST
+Connections: 1 / 10
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Haileyartesia&password=5rdXVChuuqZx&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Haileyartesia
+Password: 5rdXVChuuqZx
+Status: Active
+Exp Date: 2026-03-12 04:32:34 IST
+Connections: 1 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Renegarza24&password=mHrKEDBmSmuc&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Renegarza24
+Password: mHrKEDBmSmuc
+Status: Active
+Exp Date: 2026-01-25 04:28:30 IST
+Connections: 1 / 2
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=james.gant@gmail.com1&password=4z572NSMr4&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: james.gant@gmail.com1
+Password: 4z572NSMr4
+Status: Active
+Exp Date: 2026-07-22 09:43:24 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=V03mvS&password=317304&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: V03mvS
+Password: 317304
+Status: Active
+Exp Date: 2027-12-13 23:28:36 IST
+Connections: 2 / 10
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=V7182q&password=619105&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: V7182q
+Password: 619105
+Status: Active
+Exp Date: 2026-12-27 10:30:00 IST
+Connections: 1 / 8
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=ivone2909tv&password=29ac09ac12ac&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: ivone2909tv
+Password: 29ac09ac12ac
+Status: Active
+Exp Date: 2026-02-08 22:00:43 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=JoseBanuelosx&password=UV5zpwsn8qqF&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: JoseBanuelosx
+Password: UV5zpwsn8qqF
+Status: Active
+Exp Date: 2026-02-19 08:42:47 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=sol447&password=cKHLgddEY7St&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: sol447
+Password: cKHLgddEY7St
+Status: Active
+Exp Date: 2026-02-11 05:35:38 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=titi007&password=nhzqx76c34A&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: titi007
+Password: nhzqx76c34A
+Status: Active
+Exp Date: 2026-02-08 11:00:04 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=AlfredoBuendia&password=T7NNCpm8mLuT&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: AlfredoBuendia
+Password: T7NNCpm8mLuT
+Status: Active
+Exp Date: 2026-02-05 05:21:20 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=GAKZQWtpVzsA&password=YF9jCefMgqFL&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: GAKZQWtpVzsA
+Password: YF9jCefMgqFL
+Status: Active
+Exp Date: 2026-10-22 21:37:08 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP014851760032373996&password=81696ea50d25&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP014851760032373996
+Password: 81696ea50d25
+Status: Active
+Exp Date: 2026-10-09 23:22:53 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=rogelio3333&password=mYxsHxjm2CeF&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: rogelio3333
+Password: mYxsHxjm2CeF
+Status: Active
+Exp Date: 2026-04-07 06:55:00 IST
+Connections: 2 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Mole50&password=N9xDMJFh3Mkk&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Mole50
+Password: N9xDMJFh3Mkk
+Status: Active
+Exp Date: 2026-02-11 00:29:19 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Carlosz&password=2NgEZEqnKvHU&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Carlosz
+Password: 2NgEZEqnKvHU
+Status: Active
+Exp Date: 2026-02-08 21:24:29 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=PUENTERogelio&password=DTefHZQWNpQB&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: PUENTERogelio
+Password: DTefHZQWNpQB
+Status: Active
+Exp Date: 2026-10-10 04:22:05 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=robertoacevedo510&password=9TCy9aFzzXGk&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: robertoacevedo510
+Password: 9TCy9aFzzXGk
+Status: Active
+Exp Date: 2026-02-24 01:38:39 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=Gerardo88&password=Gerardo88&type=m3u_plus
+Host: http://593zona.live:8080
+Username: Gerardo88
+Password: Gerardo88
+Status: Active
+Exp Date: 2029-02-01 07:47:32 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=gcC5t9&password=108828&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: gcC5t9
+Password: 108828
+Status: Active
+Exp Date: 2026-01-29 10:30:00 IST
+Connections: 5 / 10
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=ferman&password=8hFJu8YtJgp9&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: ferman
+Password: 8hFJu8YtJgp9
+Status: Active
+Exp Date: 2026-02-12 01:20:04 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=JillBubbel&password=jwCXztTLFjcT&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: JillBubbel
+Password: jwCXztTLFjcT
+Status: Active
+Exp Date: 2026-03-29 01:33:18 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=miareavip&password=miarea2022&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: miareavip
+Password: miarea2022
+Status: Active
+Exp Date: Unlimited/Unknown
+Connections: 132 / 150
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=sergio012&password=t6qEneYyeV&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: sergio012
+Password: t6qEneYyeV
+Status: Active
+Exp Date: 2026-02-22 18:44:34 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP01191699804893001&password=61699804893673&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP01191699804893001
+Password: 61699804893673
+Status: Active
+Exp Date: 2026-02-16 21:55:29 IST
+Connections: 2 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=AnaLuisaVaz&password=B6VvEm4hVkFE&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: AnaLuisaVaz
+Password: B6VvEm4hVkFE
+Status: Active
+Exp Date: 2026-04-02 05:35:38 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=vx2mwP&password=541233&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: vx2mwP
+Password: 541233
+Status: Active
+Exp Date: 2027-01-02 10:30:00 IST
+Connections: 1 / 8
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=dennisninapaitantv&password=ly5lku&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: dennisninapaitantv
+Password: ly5lku
+Status: Active
+Exp Date: 2026-04-11 06:30:58 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=katjeivip8&password=gFBhZPQe7hR8&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: katjeivip8
+Password: gFBhZPQe7hR8
+Status: Active
+Exp Date: 2026-02-06 06:26:23 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56966015892playtv&password=play060423&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56966015892playtv
+Password: play060423
+Status: Active
+Exp Date: 2026-04-08 05:04:00 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=DFRTVreis&password=Lucas2&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: DFRTVreis
+Password: Lucas2
+Status: Active
+Exp Date: 2026-01-29 23:57:23 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=sonia1414&password=baqw2314sax&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: sonia1414
+Password: baqw2314sax
+Status: Active
+Exp Date: 2026-02-23 08:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=r68WFZ&password=716804&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: r68WFZ
+Password: 716804
+Status: Active
+Exp Date: 2026-12-05 22:51:35 IST
+Connections: 10 / 10
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP0184174577388520&password=11745773885677&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP0184174577388520
+Password: 11745773885677
+Status: Active
+Exp Date: 2026-04-27 22:41:25 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=ErickLara2024&password=dxdFjRnZ36kh&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: ErickLara2024
+Password: dxdFjRnZ36kh
+Status: Active
+Exp Date: 2026-02-18 10:16:28 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56959239052playtv&password=110923playtv&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56959239052playtv
+Password: 110923playtv
+Status: Active
+Exp Date: 2026-02-22 01:23:16 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56973762338playtv&password=101022play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56973762338playtv
+Password: 101022play
+Status: Active
+Exp Date: 2026-05-20 00:38:00 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=mychele@iptv&password=mychele@2022&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: mychele@iptv
+Password: mychele@2022
+Status: Active
+Exp Date: 2026-02-05 00:48:36 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=enzojogador&password=enzo100&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: enzojogador
+Password: enzo100
+Status: Active
+Exp Date: 2026-02-07 03:03:33 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=xzFT3P&password=639243&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: xzFT3P
+Password: 639243
+Status: Active
+Exp Date: 2026-02-27 10:30:00 IST
+Connections: 6 / 10
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP01471737806568317&password=ba49ae041180&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP01471737806568317
+Password: ba49ae041180
+Status: Active
+Exp Date: 2026-01-25 17:32:48 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=jsantana&password=jc8572584475&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: jsantana
+Password: jc8572584475
+Status: Active
+Exp Date: 2026-02-10 15:47:06 IST
+Connections: 1 / 2
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=69709455&password=69709455&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 69709455
+Password: 69709455
+Status: Active
+Exp Date: 2026-02-06 22:16:55 IST
+Connections: 1 / 2
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP011171755964283581&password=97067e107fde&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP011171755964283581
+Password: 97067e107fde
+Status: Active
+Exp Date: 2026-08-23 21:21:23 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Lammel&password=4uGjwFTMnyPA&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Lammel
+Password: 4uGjwFTMnyPA
+Status: Active
+Exp Date: 2026-11-11 23:46:17 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Rs118&password=55yBshx7TE&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Rs118
+Password: 55yBshx7TE
+Status: Active
+Exp Date: 2026-03-01 00:41:12 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=18022025&password=tHTySAVyrJs8&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 18022025
+Password: tHTySAVyrJs8
+Status: Active
+Exp Date: 2026-01-27 01:33:54 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=fetch14&password=01141977&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: fetch14
+Password: 01141977
+Status: Active
+Exp Date: 2026-06-13 21:40:15 IST
+Connections: 1 / 2
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=jeffrey@leandro&password=blue@jays&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: jeffrey@leandro
+Password: blue@jays
+Status: Active
+Exp Date: 2026-07-26 21:19:16 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=qv3cAB&password=483245&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: qv3cAB
+Password: 483245
+Status: Active
+Exp Date: 2026-04-18 09:30:00 IST
+Connections: 0 / 8
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56962324628playtv&password=030324play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56962324628playtv
+Password: 030324play
+Status: Active
+Exp Date: 2026-02-09 18:39:48 IST
+Connections: 5 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP017741743173529373&password=aacb05f76c36&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP017741743173529373
+Password: aacb05f76c36
+Status: Active
+Exp Date: 2026-03-28 20:22:09 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=MarceloCoelhoo&password=ShjJ892dFg&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: MarceloCoelhoo
+Password: ShjJ892dFg
+Status: Active
+Exp Date: 2026-02-18 05:29:59 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=shacaray@yahoo.com&password=shacaray@2023&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: shacaray@yahoo.com
+Password: shacaray@2023
+Status: Active
+Exp Date: 2026-02-10 10:55:31 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=0109&password=RzgczM6D5e&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 0109
+Password: RzgczM6D5e
+Status: Active
+Exp Date: 2026-04-03 01:19:24 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=lquinteros124@gmail.com&password=DwBDPWpw3v&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: lquinteros124@gmail.com
+Password: DwBDPWpw3v
+Status: Active
+Exp Date: 2026-12-27 06:13:03 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=readyregg44@yahoo.com&password=OrcduskiUf&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: readyregg44@yahoo.com
+Password: OrcduskiUf
+Status: Active
+Exp Date: 2026-03-22 07:18:01 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP017921761312332102&password=f455784d27ea&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP017921761312332102
+Password: f455784d27ea
+Status: Active
+Exp Date: 2027-02-24 19:55:32 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Delafuente07&password=JB3ZcJYf3SaS&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Delafuente07
+Password: JB3ZcJYf3SaS
+Status: Active
+Exp Date: 2026-01-31 10:48:54 IST
+Connections: 2 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=papapepe1&password=Q75cztY5DJ&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: papapepe1
+Password: Q75cztY5DJ
+Status: Active
+Exp Date: 2026-02-17 01:24:47 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=rtuOwn9W&password=0yElfoDg&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: rtuOwn9W
+Password: 0yElfoDg
+Status: Active
+Exp Date: 2026-02-21 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP019861737724450316&password=af0c53b0af78&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP019861737724450316
+Password: af0c53b0af78
+Status: Active
+Exp Date: 2026-01-24 18:44:10 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=ioribarber&password=L6mKVqmwrW6s&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: ioribarber
+Password: L6mKVqmwrW6s
+Status: Active
+Exp Date: 2026-02-12 04:54:04 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP01171739273526336&password=79d4a6bf852f&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP01171739273526336
+Password: 79d4a6bf852f
+Status: Active
+Exp Date: 2026-02-11 17:02:06 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=948587735tv&password=g099rc&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: 948587735tv
+Password: g099rc
+Status: Active
+Exp Date: 2026-04-24 00:37:49 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=9YV5Ff&password=348670&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 9YV5Ff
+Password: 348670
+Status: Active
+Exp Date: 2027-02-13 10:30:00 IST
+Connections: 7 / 10
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=Klffsamiklf&password=XwCavgSw84&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: Klffsamiklf
+Password: XwCavgSw84
+Status: Active
+Exp Date: 2026-09-15 03:50:16 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=cesmeza&password=H6x33b76hxvA&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: cesmeza
+Password: H6x33b76hxvA
+Status: Active
+Exp Date: 2027-01-07 09:26:33 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=rosangelaneta&password=asdf1133mar&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: rosangelaneta
+Password: asdf1133mar
+Status: Active
+Exp Date: 2026-02-19 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Luz&password=ZJ7bNuQemAyL&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Luz
+Password: ZJ7bNuQemAyL
+Status: Active
+Exp Date: 2026-03-04 11:07:55 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=kribellia@gmail.com&password=kribellia@2023&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: kribellia@gmail.com
+Password: kribellia@2023
+Status: Active
+Exp Date: 2026-06-16 22:34:19 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56978034009playtv&password=270724play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56978034009playtv
+Password: 270724play
+Status: Active
+Exp Date: 2026-03-04 07:43:00 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=jorgelaris&password=fn3HGLerdAsV&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: jorgelaris
+Password: fn3HGLerdAsV
+Status: Active
+Exp Date: 2026-03-18 00:01:25 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Yazmin2024&password=YPAxEd8e3289&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Yazmin2024
+Password: YPAxEd8e3289
+Status: Active
+Exp Date: 2026-02-11 22:26:53 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Rico907856&password=qTkwMQR8TPqm&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Rico907856
+Password: qTkwMQR8TPqm
+Status: Active
+Exp Date: 2026-04-08 07:35:02 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=qNG0Fr&password=010251&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: qNG0Fr
+Password: 010251
+Status: Active
+Exp Date: 2026-02-13 10:30:00 IST
+Connections: 0 / 10
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=Cc4ydcUo6H&password=XY7spnWPRe&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: Cc4ydcUo6H
+Password: XY7spnWPRe
+Status: Active
+Exp Date: 2026-03-25 02:09:42 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=cesarped&password=rMnGSgLppuFS&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: cesarped
+Password: rMnGSgLppuFS
+Status: Active
+Exp Date: 2026-03-23 08:47:03 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=juanmartin&password=8BZEu5yUVdVG&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: juanmartin
+Password: 8BZEu5yUVdVG
+Status: Active
+Exp Date: 2026-02-07 06:28:52 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=7bJBhh&password=138115&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 7bJBhh
+Password: 138115
+Status: Active
+Exp Date: 2026-02-01 10:30:00 IST
+Connections: 2 / 10
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Alan280819&password=tv9363926379&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Alan280819
+Password: tv9363926379
+Status: Active
+Exp Date: 2026-02-24 05:29:59 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=artoliv&password=VHZVAFsemRz2&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: artoliv
+Password: VHZVAFsemRz2
+Status: Active
+Exp Date: 2026-02-20 09:09:42 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=elzarape4&password=Phet3KrRG9Vz&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: elzarape4
+Password: Phet3KrRG9Vz
+Status: Active
+Exp Date: 2026-02-06 03:35:55 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Frantapia&password=A5byxSzfxt&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Frantapia
+Password: A5byxSzfxt
+Status: Active
+Exp Date: 2026-02-20 05:07:08 IST
+Connections: 1 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Josegarcia7&password=cxGK74jfmPWH&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Josegarcia7
+Password: cxGK74jfmPWH
+Status: Active
+Exp Date: 2026-02-16 05:01:31 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=juanahernandez&password=eP939pmajkkB&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: juanahernandez
+Password: eP939pmajkkB
+Status: Active
+Exp Date: 2026-10-15 22:45:57 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=xaF18Y&password=317236&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: xaF18Y
+Password: 317236
+Status: Active
+Exp Date: 2026-04-13 09:30:00 IST
+Connections: 16 / 10
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=uF2Dc1&password=640586&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: uF2Dc1
+Password: 640586
+Status: Active
+Exp Date: 2026-06-11 09:30:00 IST
+Connections: 2 / 10
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=tiao&password=tv988174449&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: tiao
+Password: tv988174449
+Status: Active
+Exp Date: 2026-02-12 05:41:35 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=neRWf1&password=lannw76&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: neRWf1
+Password: lannw76
+Status: Active
+Exp Date: 2026-01-29 10:30:00 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP018001737483551313&password=88f9735341d3&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP018001737483551313
+Password: 88f9735341d3
+Status: Active
+Exp Date: 2026-02-21 23:49:11 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP01961761673419102&password=8799653be4f0&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP01961761673419102
+Password: 8799653be4f0
+Status: Active
+Exp Date: 2026-11-28 23:13:39 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56992653056wspzp&password=090325zp&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56992653056wspzp
+Password: 090325zp
+Status: Active
+Exp Date: 2026-02-21 03:24:50 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=FreddyG&password=3zUyCAg2dgfQ&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: FreddyG
+Password: 3zUyCAg2dgfQ
+Status: Active
+Exp Date: 2026-02-01 04:26:13 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=cesarjacobo2&password=gWVQ4n2UXZC4&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: cesarjacobo2
+Password: gWVQ4n2UXZC4
+Status: Active
+Exp Date: 2026-03-15 00:36:07 IST
+Connections: 2 / 3
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=78481965&password=9h67d79XV689&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: 78481965
+Password: 9h67d79XV689
+Status: Active
+Exp Date: 2026-01-31 03:58:46 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=t2P1Ch&password=214403&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: t2P1Ch
+Password: 214403
+Status: Active
+Exp Date: 2026-01-28 10:30:00 IST
+Connections: 0 / 10
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=victor805&password=LkcnKhSFJVxv&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: victor805
+Password: LkcnKhSFJVxv
+Status: Active
+Exp Date: 2026-12-22 03:08:46 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Batata45&password=BAtata98073230&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Batata45
+Password: BAtata98073230
+Status: Active
+Exp Date: 2026-02-23 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=rene@gates&password=rene@gates2021&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: rene@gates
+Password: rene@gates2021
+Status: Active
+Exp Date: 2026-03-02 05:47:18 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=sergionicolau&password=d263YGQbtW42&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: sergionicolau
+Password: d263YGQbtW42
+Status: Active
+Exp Date: 2026-02-25 06:32:59 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=SusanaFox1910&password=K7DnveeESBW5&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: SusanaFox1910
+Password: K7DnveeESBW5
+Status: Active
+Exp Date: 2026-02-23 01:17:05 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=robros&password=v2UfwzgfpKzS&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: robros
+Password: v2UfwzgfpKzS
+Status: Active
+Exp Date: 2026-03-19 03:40:21 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=ManuelMontalvo&password=mb7PJEnjAYUY&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: ManuelMontalvo
+Password: mb7PJEnjAYUY
+Status: Active
+Exp Date: 2026-02-07 04:55:21 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=israellopez17&password=GWZ7zADPwJUt&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: israellopez17
+Password: GWZ7zADPwJUt
+Status: Active
+Exp Date: 2026-07-09 01:00:16 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=LYNDENWA15&password=YmeLPVzc87NX&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: LYNDENWA15
+Password: YmeLPVzc87NX
+Status: Active
+Exp Date: 2026-02-14 10:17:29 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Walther25&password=xgXGLyWqdPt5&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Walther25
+Password: xgXGLyWqdPt5
+Status: Active
+Exp Date: 2026-01-30 08:36:42 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP0154171260650165&password=071829c401e3&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP0154171260650165
+Password: 071829c401e3
+Status: Active
+Exp Date: 2027-01-10 03:07:05 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=7023256086&password=pdorianbeaver@gmail.com&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 7023256086
+Password: pdorianbeaver@gmail.com
+Status: Active
+Exp Date: 2026-02-15 02:52:12 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=flor00&password=5jDEKdthhUeA&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: flor00
+Password: 5jDEKdthhUeA
+Status: Active
+Exp Date: 2026-04-12 06:46:56 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=luise&password=K9VGhkjREd&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: luise
+Password: K9VGhkjREd
+Status: Active
+Exp Date: 2026-02-22 03:29:19 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=6264204321&password=wEeRtW3VZKrf&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 6264204321
+Password: wEeRtW3VZKrf
+Status: Active
+Exp Date: 2026-09-16 03:33:26 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=diegoagua2&password=U9uhWLAYrNdz&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: diegoagua2
+Password: U9uhWLAYrNdz
+Status: Active
+Exp Date: 2026-02-01 03:08:33 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=DanielCasamae&password=Casamae%4012_&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: DanielCasamae
+Password: Casamae%4012_
+Status: Active
+Exp Date: 2026-07-16 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=nitros0023&password=pXX4wkcwqqwa&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: nitros0023
+Password: pXX4wkcwqqwa
+Status: Active
+Exp Date: 2026-02-06 00:23:49 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56944419364play&password=050724play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56944419364play
+Password: 050724play
+Status: Active
+Exp Date: 2026-04-07 00:16:00 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Sunpr151w&password=GZD4FuMed8GL&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Sunpr151w
+Password: GZD4FuMed8GL
+Status: Active
+Exp Date: 2026-02-07 02:08:57 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=reginaldo011&password=Cqdqxt6uYx&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: reginaldo011
+Password: Cqdqxt6uYx
+Status: Active
+Exp Date: 2026-02-23 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=Vqn8WY&password=258422&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: Vqn8WY
+Password: 258422
+Status: Active
+Exp Date: 2026-02-06 10:30:00 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=1junior6227luiz&password=62728juni73729&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: 1junior6227luiz
+Password: 62728juni73729
+Status: Active
+Exp Date: 2026-02-26 08:29:59 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=40405596&password=40405596&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 40405596
+Password: 40405596
+Status: Active
+Exp Date: 2026-03-05 08:17:57 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP011541748802019474&password=e1f7626baa26&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP011541748802019474
+Password: e1f7626baa26
+Status: Active
+Exp Date: 2026-09-01 23:50:19 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=FilibertoRomero&password=XDnrf3VJYKWg&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: FilibertoRomero
+Password: XDnrf3VJYKWg
+Status: Active
+Exp Date: 2026-02-03 05:58:47 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP014351762792614111&password=9dc9e0efb81e&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP014351762792614111
+Password: 9dc9e0efb81e
+Status: Active
+Exp Date: 2026-02-10 22:06:54 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Jesus_SSTV&password=3qTxx7PbaGk4&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Jesus_SSTV
+Password: 3qTxx7PbaGk4
+Status: Active
+Exp Date: 2026-02-21 07:39:58 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=jameshobai@gmail.com&password=gu4sY8gN24&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: jameshobai@gmail.com
+Password: gu4sY8gN24
+Status: Active
+Exp Date: 2026-05-05 07:40:08 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56950958724playtv&password=play100323&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56950958724playtv
+Password: play100323
+Status: Active
+Exp Date: 2026-03-23 05:08:34 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=prm2203013&password=nhAeyx4yRW&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: prm2203013
+Password: nhAeyx4yRW
+Status: Active
+Exp Date: 2026-07-31 06:26:19 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Adrifm93&password=7q8hWE8ju8ZR&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Adrifm93
+Password: 7q8hWE8ju8ZR
+Status: Active
+Exp Date: 2026-02-09 04:46:23 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=qwCG19&password=322769&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: qwCG19
+Password: 322769
+Status: Active
+Exp Date: 2026-04-21 09:30:00 IST
+Connections: 0 / 8
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=EmrahArslan2025&password=b87oFverBk&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: EmrahArslan2025
+Password: b87oFverBk
+Status: Active
+Exp Date: 2026-01-30 18:31:14 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP016441746966468439&password=4169e5d7386a&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP016441746966468439
+Password: 4169e5d7386a
+Status: Active
+Exp Date: 2026-05-11 17:57:48 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=jamisp&password=Np6yZRMvnWDt&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: jamisp
+Password: Np6yZRMvnWDt
+Status: Active
+Exp Date: 2026-02-11 22:06:24 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=56981370360&password=Apn9UfDDdqQZ&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: 56981370360
+Password: Apn9UfDDdqQZ
+Status: Active
+Exp Date: 2026-05-27 05:52:49 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Hassr2502&password=N3zb8k2UKMzu&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Hassr2502
+Password: N3zb8k2UKMzu
+Status: Active
+Exp Date: 2026-05-13 06:22:32 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=amcp24105&password=102031amcd&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: amcp24105
+Password: 102031amcd
+Status: Active
+Exp Date: 2026-02-02 18:18:34 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://streamingtv.vip/get.php?username=Ndnrb948486263bsc&password=727etsbnd709&type=m3u_plus
+Host: http://streamingtv.vip
+Username: Ndnrb948486263bsc
+Password: 727etsbnd709
+Status: Active
+Exp Date: Unlimited/Unknown
+Connections: 40 / 200
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Carlton456&password=NkcmTc5svkUg&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Carlton456
+Password: NkcmTc5svkUg
+Status: Active
+Exp Date: 2026-07-12 08:57:10 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP0113172679126129&password=51732389530751&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP0113172679126129
+Password: 51732389530751
+Status: Active
+Exp Date: 2026-06-20 05:44:21 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Mauro2025&password=7f4LjVwDmZzc&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Mauro2025
+Password: 7f4LjVwDmZzc
+Status: Active
+Exp Date: 2026-02-02 07:14:21 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=sabrios&password=McAzx9XVgXFa&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: sabrios
+Password: McAzx9XVgXFa
+Status: Active
+Exp Date: 2026-02-03 04:42:19 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=EnriqueRosenberg&password=Z6WUrP6C6GsU&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: EnriqueRosenberg
+Password: Z6WUrP6C6GsU
+Status: Active
+Exp Date: 2026-02-17 08:30:45 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=AmadorM&password=jYduBGbNNMpH&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: AmadorM
+Password: jYduBGbNNMpH
+Status: Active
+Exp Date: 2026-08-06 06:29:58 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=10032024MA&password=10032024MA&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: 10032024MA
+Password: 10032024MA
+Status: Active
+Exp Date: 2026-03-11 02:43:28 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP017021747941132462&password=2f18cd6ed67d&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP017021747941132462
+Password: 2f18cd6ed67d
+Status: Active
+Exp Date: 2026-06-23 00:42:12 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Marcello549668&password=Marcello564329&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Marcello549668
+Password: Marcello564329
+Status: Active
+Exp Date: 2026-01-28 03:14:40 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=ZYsdGbXyR5yb&password=aGLumPq54nRU&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: ZYsdGbXyR5yb
+Password: aGLumPq54nRU
+Status: Active
+Exp Date: 2026-01-27 01:54:35 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=z2R7PW&password=317971&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: z2R7PW
+Password: 317971
+Status: Active
+Exp Date: 2026-09-25 09:30:00 IST
+Connections: 4 / 10
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=11981577950&password=viviane0102&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: 11981577950
+Password: viviane0102
+Status: Active
+Exp Date: 2026-02-02 07:06:41 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=948584987tv&password=f9oe1n&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: 948584987tv
+Password: f9oe1n
+Status: Active
+Exp Date: 2027-05-05 01:04:29 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Marcelo2299703&password=99703668877&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Marcelo2299703
+Password: 99703668877
+Status: Active
+Exp Date: 2026-03-07 20:34:19 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=Kamilbroder&password=DH6yXfRoYF&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: Kamilbroder
+Password: DH6yXfRoYF
+Status: Active
+Exp Date: 2026-10-14 10:35:24 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=piloflow&password=83SADyjkCVuG&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: piloflow
+Password: 83SADyjkCVuG
+Status: Active
+Exp Date: 2026-01-26 05:28:31 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Cheoventu98&password=uKtQMBWuDyBL&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Cheoventu98
+Password: uKtQMBWuDyBL
+Status: Active
+Exp Date: 2026-02-25 03:26:27 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=ladypjluv1@gmail.com&password=36aty72dx7&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: ladypjluv1@gmail.com
+Password: 36aty72dx7
+Status: Active
+Exp Date: 2026-06-16 23:26:22 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=miller@prudent.com&password=0723@8095&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: miller@prudent.com
+Password: 0723@8095
+Status: Active
+Exp Date: 2026-07-25 23:16:12 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Antoniocarlos2&password=a20304050a&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Antoniocarlos2
+Password: a20304050a
+Status: Active
+Exp Date: 2026-02-08 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=KZo9BMZX1E&password=mBS4WdQjeA&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: KZo9BMZX1E
+Password: mBS4WdQjeA
+Status: Active
+Exp Date: 2026-10-10 18:41:19 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Juan5767&password=3SbWhssqqBsJ&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Juan5767
+Password: 3SbWhssqqBsJ
+Status: Active
+Exp Date: 2026-01-27 07:36:17 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=joel09&password=sUfqcHSajC&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: joel09
+Password: sUfqcHSajC
+Status: Active
+Exp Date: 2026-02-21 20:14:04 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=antonioherbozatv&password=r3r06b&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: antonioherbozatv
+Password: r3r06b
+Status: Active
+Exp Date: 2026-01-27 21:33:00 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP011921728751398109&password=ce93c186ed03&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP011921728751398109
+Password: ce93c186ed03
+Status: Active
+Exp Date: 2026-10-12 22:13:18 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=phi@live.ca&password=phi@3574&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: phi@live.ca
+Password: phi@3574
+Status: Active
+Exp Date: Unlimited/Unknown
+Connections: 4 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=kuchacat@hotmail.com&password=DS4Uejzmh6&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: kuchacat@hotmail.com
+Password: DS4Uejzmh6
+Status: Active
+Exp Date: 2026-01-26 09:01:30 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=j0SF14&password=681109&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: j0SF14
+Password: 681109
+Status: Active
+Exp Date: 2026-06-01 09:30:00 IST
+Connections: 4 / 5
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56959657534w1&password=210724activa&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56959657534w1
+Password: 210724activa
+Status: Active
+Exp Date: 2026-02-10 19:06:09 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Guedesteste&password=326687892022&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Guedesteste
+Password: 326687892022
+Status: Active
+Exp Date: 2026-02-10 06:10:35 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56977630000play&password=170824play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56977630000play
+Password: 170824play
+Status: Active
+Exp Date: 2026-03-23 19:21:47 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=fhubE4&password=812361&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: fhubE4
+Password: 812361
+Status: Active
+Exp Date: 2026-12-12 10:30:00 IST
+Connections: 0 / 8
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=97282sns&password=DHBy2tw22rnS&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 97282sns
+Password: DHBy2tw22rnS
+Status: Active
+Exp Date: 2026-04-23 17:21:54 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Jones1309&password=Tv7517865hab&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Jones1309
+Password: Tv7517865hab
+Status: Active
+Exp Date: 2026-02-15 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=JuFe2025&password=92HEbvMvhAp5&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: JuFe2025
+Password: 92HEbvMvhAp5
+Status: Active
+Exp Date: 2026-04-16 01:02:46 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=LiliG25&password=bMXpaec4xpEk&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: LiliG25
+Password: bMXpaec4xpEk
+Status: Active
+Exp Date: 2026-02-09 02:48:47 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=tezj&password=1202Allday&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: tezj
+Password: 1202Allday
+Status: Active
+Exp Date: 2026-06-16 00:47:43 IST
+Connections: 2 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=62992153867&password=Abc123&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: 62992153867
+Password: Abc123
+Status: Active
+Exp Date: 2026-03-30 01:53:57 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=papavip887&password=uYxjHQeDy8TW&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: papavip887
+Password: uYxjHQeDy8TW
+Status: Active
+Exp Date: 2026-02-09 02:59:53 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=flowers.pat@gmail.com&password=LmqaGWRxuV&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: flowers.pat@gmail.com
+Password: LmqaGWRxuV
+Status: Active
+Exp Date: 2026-04-14 20:58:46 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP017011744805335390&password=2d50553ff154&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP017011744805335390
+Password: 2d50553ff154
+Status: Active
+Exp Date: 2026-04-16 17:38:55 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Irma2023&password=R6VDmB5sZpr6&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Irma2023
+Password: R6VDmB5sZpr6
+Status: Active
+Exp Date: 2026-05-17 04:56:26 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=000000213152&password=213156589090&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: 000000213152
+Password: 213156589090
+Status: Active
+Exp Date: 2026-02-06 06:29:45 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=futrellconsulting@gmail.com&password=9u3djjNr02&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: futrellconsulting@gmail.com
+Password: 9u3djjNr02
+Status: Active
+Exp Date: 2026-03-31 09:30:00 IST
+Connections: 4 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=WERO1&password=nHMsETfMkchr&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: WERO1
+Password: nHMsETfMkchr
+Status: Active
+Exp Date: 2026-02-24 09:45:47 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=capsunsa&password=ZquKH2qHLgSE&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: capsunsa
+Password: ZquKH2qHLgSE
+Status: Active
+Exp Date: 2026-01-26 07:12:14 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=angelicacolmenaresmx&password=dTv3c32MvyRt&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: angelicacolmenaresmx
+Password: dTv3c32MvyRt
+Status: Active
+Exp Date: 2026-02-19 04:01:33 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=82948sns&password=a7hHZewDgAkb&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 82948sns
+Password: a7hHZewDgAkb
+Status: Active
+Exp Date: 2026-09-03 09:15:27 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=miguelgarciabravo&password=hNtBzFP4aYGa&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: miguelgarciabravo
+Password: hNtBzFP4aYGa
+Status: Active
+Exp Date: 2026-02-17 08:21:10 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=8046sns&password=8EeTtJgLeqFa&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 8046sns
+Password: 8EeTtJgLeqFa
+Status: Active
+Exp Date: 2026-02-19 02:21:33 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=78307799alicia&password=Gnty9364&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: 78307799alicia
+Password: Gnty9364
+Status: Active
+Exp Date: 2026-03-11 01:44:58 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=72440680&password=72440680&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 72440680
+Password: 72440680
+Status: Active
+Exp Date: 2026-04-10 02:12:10 IST
+Connections: 3 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=mortonrussellg@gmail.com&password=mortonrussellg@2023&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: mortonrussellg@gmail.com
+Password: mortonrussellg@2023
+Status: Active
+Exp Date: 2026-03-09 06:13:29 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=jameldavis1970@gmail.com&password=24164942&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: jameldavis1970@gmail.com
+Password: 24164942
+Status: Active
+Exp Date: 2026-05-25 02:09:45 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=8184385676&password=5dzGz4RsEqnm&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 8184385676
+Password: 5dzGz4RsEqnm
+Status: Active
+Exp Date: 2026-04-19 09:29:31 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP019901744546778386&password=c40205a71a51&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP019901744546778386
+Password: c40205a71a51
+Status: Active
+Exp Date: 2026-04-13 17:49:38 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=celsabazua01&password=rxaRUAqcYXbd&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: celsabazua01
+Password: rxaRUAqcYXbd
+Status: Active
+Exp Date: 2026-02-11 06:53:52 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Vitorino1&password=State2&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Vitorino1
+Password: State2
+Status: Active
+Exp Date: 2026-03-27 00:55:00 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=ivanc&password=zfTkQm3d7Te5&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: ivanc
+Password: zfTkQm3d7Te5
+Status: Active
+Exp Date: 2026-02-05 06:23:02 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=abdiel2233&password=fa3zqu9jwGUB&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: abdiel2233
+Password: fa3zqu9jwGUB
+Status: Active
+Exp Date: 2026-02-09 05:04:57 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56990943500w1&password=250724activa&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56990943500w1
+Password: 250724activa
+Status: Active
+Exp Date: 2026-02-08 20:48:04 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=07MARCO.O1&password=3yW6JEYXMfYk&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 07MARCO.O1
+Password: 3yW6JEYXMfYk
+Status: Active
+Exp Date: 2026-11-18 10:17:30 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=584096&password=340632&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 584096
+Password: 340632
+Status: Active
+Exp Date: 2026-02-16 20:31:50 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=maumoral&password=zynQC7kyGEPC&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: maumoral
+Password: zynQC7kyGEPC
+Status: Active
+Exp Date: 2026-09-10 23:50:28 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=supertech36515@dytechservices.com13&password=rHd7Gg8ttx&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: supertech36515@dytechservices.com13
+Password: rHd7Gg8ttx
+Status: Active
+Exp Date: 2026-02-01 06:13:25 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP011471749747201485&password=b1c5aa433ff3&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP011471749747201485
+Password: b1c5aa433ff3
+Status: Active
+Exp Date: 2026-06-12 22:23:21 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56991385641playtv&password=131123playtv&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56991385641playtv
+Password: 131123playtv
+Status: Active
+Exp Date: 2026-02-14 21:30:00 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP019411733324306274&password=5c5c9b45df3a&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP019411733324306274
+Password: 5c5c9b45df3a
+Status: Active
+Exp Date: 2026-03-04 23:49:20 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=jaikwhite@yahoo.com&password=jaikwhite@2024&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: jaikwhite@yahoo.com
+Password: jaikwhite@2024
+Status: Active
+Exp Date: 2026-02-01 06:04:53 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=11997352257&password=cabara0102&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: 11997352257
+Password: cabara0102
+Status: Active
+Exp Date: 2026-04-17 05:29:59 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Lourdesx914&password=EM5eTp9zjRJ4&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Lourdesx914
+Password: EM5eTp9zjRJ4
+Status: Active
+Exp Date: 2026-09-05 04:13:35 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=yvonnehawes@yahoo.com&password=yvonnehawes@2023&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: yvonnehawes@yahoo.com
+Password: yvonnehawes@2023
+Status: Active
+Exp Date: 2027-01-02 06:19:30 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56956941710play&password=040224play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56956941710play
+Password: 040224play
+Status: Active
+Exp Date: 2026-11-07 08:36:00 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=gordonbrown50@gmail.com&password=MADS4WcwxM&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: gordonbrown50@gmail.com
+Password: MADS4WcwxM
+Status: Active
+Exp Date: 2026-02-21 23:41:10 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=tommy691982@hotmail.com&password=7MAw65WKKu&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: tommy691982@hotmail.com
+Password: 7MAw65WKKu
+Status: Active
+Exp Date: 2026-03-12 07:57:39 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=lorneeblais@outlook.com&password=q98b9LiNAj&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: lorneeblais@outlook.com
+Password: q98b9LiNAj
+Status: Active
+Exp Date: 2026-10-09 07:47:33 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=8185881402&password=Vs5embaVc5H6&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 8185881402
+Password: Vs5embaVc5H6
+Status: Active
+Exp Date: 2026-10-07 04:55:20 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Ark2301&password=QdghgMyKL9ZM&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Ark2301
+Password: QdghgMyKL9ZM
+Status: Active
+Exp Date: 2026-02-09 02:55:37 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Ale-Almeida&password=3MsN4A4qMz5t&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Ale-Almeida
+Password: 3MsN4A4qMz5t
+Status: Active
+Exp Date: 2026-02-08 20:26:39 IST
+Connections: 2 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP014481758711913221&password=f118f76e25f9&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP014481758711913221
+Password: f118f76e25f9
+Status: Active
+Exp Date: 2026-09-24 16:35:13 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=JulioCasasRut&password=NyTgT5EPkOU7Yt&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: JulioCasasRut
+Password: NyTgT5EPkOU7Yt
+Status: Active
+Exp Date: 2026-02-25 07:31:46 IST
+Connections: 1 / 2
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=zC3Eby&password=245776&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: zC3Eby
+Password: 245776
+Status: Active
+Exp Date: 2026-03-02 10:30:00 IST
+Connections: 5 / 8
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=EQ2&password=8ZrWWtqaw7b6&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: EQ2
+Password: 8ZrWWtqaw7b6
+Status: Active
+Exp Date: 2026-02-12 02:37:45 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Dwane77&password=WFF8uSAHuJEP&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Dwane77
+Password: WFF8uSAHuJEP
+Status: Active
+Exp Date: 2026-01-28 01:47:09 IST
+Connections: 2 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Au385932ps&password=AQ4264ge658&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Au385932ps
+Password: AQ4264ge658
+Status: Active
+Exp Date: 2026-02-23 03:39:30 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=foyers1@rogers.com&password=9jguFdUq3Y&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: foyers1@rogers.com
+Password: 9jguFdUq3Y
+Status: Active
+Exp Date: 2027-01-19 02:14:05 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Kevbaez&password=QN7qz3TCcCLg&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Kevbaez
+Password: QN7qz3TCcCLg
+Status: Active
+Exp Date: 2026-02-12 00:35:35 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=R81Cm0&password=659036&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: R81Cm0
+Password: 659036
+Status: Active
+Exp Date: 2026-08-02 09:30:00 IST
+Connections: 5 / 10
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Marysol&password=RKkLqF7jEt7E&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Marysol
+Password: RKkLqF7jEt7E
+Status: Active
+Exp Date: 2026-02-23 03:20:38 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=12Sayurika&password=hKEmG3q3Jp6Q&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 12Sayurika
+Password: hKEmG3q3Jp6Q
+Status: Active
+Exp Date: 2026-02-22 09:49:05 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=Kydabk9PvE&password=68opSnk7re&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: Kydabk9PvE
+Password: 68opSnk7re
+Status: Active
+Exp Date: 2026-06-23 02:51:29 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Marlon&password=qhgT5HCsuL&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Marlon
+Password: qhgT5HCsuL
+Status: Active
+Exp Date: 2026-03-03 04:35:13 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56974198213pro&password=020224pro&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56974198213pro
+Password: 020224pro
+Status: Active
+Exp Date: 2026-02-22 23:08:35 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP019061743274412373&password=d98adce51a82&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP019061743274412373
+Password: d98adce51a82
+Status: Active
+Exp Date: 2026-03-29 23:23:32 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=JorgeJrz&password=TSNrt2jyXHez&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: JorgeJrz
+Password: TSNrt2jyXHez
+Status: Active
+Exp Date: 2026-04-14 07:04:58 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=cesarcamacho&password=qKWQeGFFnyXd&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: cesarcamacho
+Password: qKWQeGFFnyXd
+Status: Active
+Exp Date: 2026-02-27 05:04:49 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=vmGDa1yN&password=GhlCVyxD&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: vmGDa1yN
+Password: GhlCVyxD
+Status: Active
+Exp Date: 2026-01-31 02:36:34 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=rach@iptv&password=rach@2022&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: rach@iptv
+Password: rach@2022
+Status: Active
+Exp Date: 2026-04-17 03:02:32 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Freddy202578&password=S9wgnAtYSmfw&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Freddy202578
+Password: S9wgnAtYSmfw
+Status: Active
+Exp Date: 2026-02-17 21:26:54 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56954292290playtv&password=250524play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56954292290playtv
+Password: 250524play
+Status: Active
+Exp Date: 2026-03-20 01:50:00 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56998253206play&password=310124play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56998253206play
+Password: 310124play
+Status: Active
+Exp Date: 2026-04-17 04:02:50 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=iris22&password=Lp098&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: iris22
+Password: Lp098
+Status: Active
+Exp Date: 2026-01-28 04:03:38 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=rmoncayo&password=sct9fyafBK&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: rmoncayo
+Password: sct9fyafBK
+Status: Active
+Exp Date: 2026-02-23 05:57:26 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=shonree2@yahoo.com&password=Yx3uam48NM&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: shonree2@yahoo.com
+Password: Yx3uam48NM
+Status: Active
+Exp Date: 2026-03-23 05:28:24 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Arelyhernandez&password=d7A8reuGcVNv&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Arelyhernandez
+Password: d7A8reuGcVNv
+Status: Active
+Exp Date: 2026-02-09 05:23:01 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56930037617playtv&password=170923play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56930037617playtv
+Password: 170923play
+Status: Active
+Exp Date: 2026-03-06 07:29:00 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=lil&password=Bruce&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: lil
+Password: Bruce
+Status: Active
+Exp Date: 2026-07-25 07:58:30 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Guillermo673&password=fv74ESPLPATv&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Guillermo673
+Password: fv74ESPLPATv
+Status: Active
+Exp Date: 2026-04-24 07:36:49 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=374CV7K8kzJK&password=VZQqGS3Y9sdU&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 374CV7K8kzJK
+Password: VZQqGS3Y9sdU
+Status: Active
+Exp Date: 2026-10-19 22:55:10 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=DiegoBalbinoo&password=814781833&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: DiegoBalbinoo
+Password: 814781833
+Status: Active
+Exp Date: 2026-02-19 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Delafuente03&password=mTcMFATz4Dzz&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Delafuente03
+Password: mTcMFATz4Dzz
+Status: Active
+Exp Date: 2026-01-31 10:47:38 IST
+Connections: 2 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=jasonliddle26@gmail.com&password=HJnaxPLZyK&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: jasonliddle26@gmail.com
+Password: HJnaxPLZyK
+Status: Active
+Exp Date: 2026-03-01 07:03:40 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=2738sns&password=PSbhtnRuhmsS&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: 2738sns
+Password: PSbhtnRuhmsS
+Status: Active
+Exp Date: 2026-02-24 08:50:07 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Delafuente02&password=57LaTyjB9pxz&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Delafuente02
+Password: 57LaTyjB9pxz
+Status: Active
+Exp Date: 2026-01-31 10:47:11 IST
+Connections: 2 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=kparham43@gmail.com&password=kparham43@2022&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: kparham43@gmail.com
+Password: kparham43@2022
+Status: Active
+Exp Date: 2026-11-23 08:32:55 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=flourgan@gmail.com&password=QPrrJd2CBX&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: flourgan@gmail.com
+Password: QPrrJd2CBX
+Status: Active
+Exp Date: 2026-02-18 08:47:18 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=josecaba&password=FnNMFghTpNzH&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: josecaba
+Password: FnNMFghTpNzH
+Status: Active
+Exp Date: 2026-02-19 09:29:50 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=yH7jKg&password=774900&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: yH7jKg
+Password: 774900
+Status: Active
+Exp Date: 2026-04-12 09:30:00 IST
+Connections: 1 / 8
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=mjm9885@yahoo.com&password=7n4wbHPVdX&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: mjm9885@yahoo.com
+Password: 7n4wbHPVdX
+Status: Active
+Exp Date: 2026-02-16 02:21:02 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56996752036playtv&password=010624play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56996752036playtv
+Password: 010624play
+Status: Active
+Exp Date: 2026-02-11 02:59:39 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=sherrybn@sbcglobal.net&password=sherrybn@2023&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: sherrybn@sbcglobal.net
+Password: sherrybn@2023
+Status: Active
+Exp Date: 2026-03-10 01:57:50 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=martinez1990&password=aHttSeGZmswr&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: martinez1990
+Password: aHttSeGZmswr
+Status: Active
+Exp Date: 2026-01-28 20:45:19 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Zombie&password=s9qEwmBHb6D6&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Zombie
+Password: s9qEwmBHb6D6
+Status: Active
+Exp Date: 2026-02-08 04:48:09 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56981665164wspzero&password=060122zero&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56981665164wspzero
+Password: 060122zero
+Status: Active
+Exp Date: 2026-06-25 03:46:07 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=geovanicastillo78&password=UKs3T3ta9VFj&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: geovanicastillo78
+Password: UKs3T3ta9VFj
+Status: Active
+Exp Date: 2026-02-19 01:20:10 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=968230991tv&password=p8h7fu&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: 968230991tv
+Password: p8h7fu
+Status: Active
+Exp Date: 2026-01-26 05:12:39 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=jvenegas&password=5NkT7vY367Vc&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: jvenegas
+Password: 5NkT7vY367Vc
+Status: Active
+Exp Date: 2026-02-08 05:37:17 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=aX83dUYBmHHm&password=d4jK3sDcLFz3&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: aX83dUYBmHHm
+Password: d4jK3sDcLFz3
+Status: Active
+Exp Date: 2026-03-13 06:26:59 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=chapoalaska4&password=cmj9gugsAEgY&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: chapoalaska4
+Password: cmj9gugsAEgY
+Status: Active
+Exp Date: 2026-02-07 09:58:27 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Diaz25Hesp&password=CAyu8vfH4tcT&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Diaz25Hesp
+Password: CAyu8vfH4tcT
+Status: Active
+Exp Date: 2026-02-11 05:48:05 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Amadeu1000&password=Amigo1&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Amadeu1000
+Password: Amigo1
+Status: Active
+Exp Date: 2026-04-08 06:37:00 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56944547503playtv&password=051124play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56944547503playtv
+Password: 051124play
+Status: Active
+Exp Date: 2026-04-05 04:31:00 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=t2NX8y&password=076922&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: t2NX8y
+Password: 076922
+Status: Active
+Exp Date: 2026-12-12 10:30:00 IST
+Connections: 0 / 8
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=Uhectorcerna2309&password=urXD84ZEVP&type=m3u_plus
+Host: http://593zona.live:8080
+Username: Uhectorcerna2309
+Password: urXD84ZEVP
+Status: Active
+Exp Date: 2026-04-15 02:26:04 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=g11C5n&password=843481&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: g11C5n
+Password: 843481
+Status: Active
+Exp Date: 2026-07-03 09:30:00 IST
+Connections: 0 / 8
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP0115171300076067&password=d14887ace293&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP0115171300076067
+Password: d14887ace293
+Status: Active
+Exp Date: 2026-04-13 15:02:40 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=29364716&password=29364716&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 29364716
+Password: 29364716
+Status: Active
+Exp Date: 2026-02-17 04:54:15 IST
+Connections: 3 / 2
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=geHXQ7&password=535638&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: geHXQ7
+Password: 535638
+Status: Active
+Exp Date: 2026-04-15 09:30:00 IST
+Connections: 2 / 5
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP011701762183027102&password=e004a79b88c2&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP011701762183027102
+Password: e004a79b88c2
+Status: Active
+Exp Date: 2026-05-03 19:47:07 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://app.tecnomolly.com:8080/get.php?username=Ismaelnieve&password=5GQWCFwG69Je&type=m3u_plus
+Host: http://app.tecnomolly.com:8080
+Username: Ismaelnieve
+Password: 5GQWCFwG69Je
+Status: Active
+Exp Date: 2026-02-03 20:43:59 IST
+Connections: 1 / 3
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=988358722tv&password=31ths1&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: 988358722tv
+Password: 31ths1
+Status: Active
+Exp Date: 2026-06-22 00:34:05 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=Wilson123&password=Wilson123&type=m3u_plus
+Host: http://593zona.live:8080
+Username: Wilson123
+Password: Wilson123
+Status: Active
+Exp Date: 2026-07-31 06:03:25 IST
+Connections: 4 / 4
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP018431738422729326&password=ab6cb43c362d&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP018431738422729326
+Password: ab6cb43c362d
+Status: Active
+Exp Date: 2026-02-01 20:42:09 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Neyde77&password=tv8544566899&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Neyde77
+Password: tv8544566899
+Status: Active
+Exp Date: 2026-07-04 22:52:53 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=larrylar@gmail.com&password=573@553&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: larrylar@gmail.com
+Password: 573@553
+Status: Active
+Exp Date: Unlimited/Unknown
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=tS4m4V&password=047639&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: tS4m4V
+Password: 047639
+Status: Active
+Exp Date: 2026-03-08 04:58:33 IST
+Connections: 3 / 10
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=EdileuzaRodo&password=094991997103&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: EdileuzaRodo
+Password: 094991997103
+Status: Active
+Exp Date: 2026-02-18 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=amcp184732&password=102031amcd&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: amcp184732
+Password: 102031amcd
+Status: Active
+Exp Date: 2026-03-01 22:35:23 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=townsendmjd@gmail.com&password=483zH4u679&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: townsendmjd@gmail.com
+Password: 483zH4u679
+Status: Active
+Exp Date: 2026-05-17 00:57:51 IST
+Connections: 1 / 2
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56996967335wspzero&password=050323zero&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56996967335wspzero
+Password: 050323zero
+Status: Active
+Exp Date: 2026-02-10 20:16:47 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Gilvan&password=04gilvan0612&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Gilvan
+Password: 04gilvan0612
+Status: Active
+Exp Date: 2026-01-26 05:09:21 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=992771165tv&password=808dwd&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: 992771165tv
+Password: 808dwd
+Status: Active
+Exp Date: 2026-03-05 20:34:31 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=yavonnebryant@gmail.com&password=CyYPUxeBpk&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: yavonnebryant@gmail.com
+Password: CyYPUxeBpk
+Status: Active
+Exp Date: 2026-06-08 21:05:27 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=Albert7892&password=Albert7892&type=m3u_plus
+Host: http://593zona.live:8080
+Username: Albert7892
+Password: Albert7892
+Status: Active
+Exp Date: 2026-09-28 06:34:45 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP011411738254840324&password=ec6e93c17761&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP011411738254840324
+Password: ec6e93c17761
+Status: Active
+Exp Date: 2026-01-30 22:04:00 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=klester723@gmail.com&password=VunNxRGmKT&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: klester723@gmail.com
+Password: VunNxRGmKT
+Status: Active
+Exp Date: 2026-07-01 05:57:59 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=lucandfd&password=la8059290&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: lucandfd
+Password: la8059290
+Status: Active
+Exp Date: 2026-04-18 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=khQ9J1&password=206207&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: khQ9J1
+Password: 206207
+Status: Active
+Exp Date: 2026-04-16 09:30:00 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=rick.watson42@gmail.com&password=rickwatson42@54&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: rick.watson42@gmail.com
+Password: rickwatson42@54
+Status: Active
+Exp Date: 2027-08-31 09:30:00 IST
+Connections: 3 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=beto8710&password=8387104164bet&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: beto8710
+Password: 8387104164bet
+Status: Active
+Exp Date: 2026-02-10 02:21:18 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=eyes4u2796@aol.com&password=eyes4u2796@2023&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: eyes4u2796@aol.com
+Password: eyes4u2796@2023
+Status: Active
+Exp Date: 2028-01-01 04:50:02 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=miltbrown51@yahoo.com&password=9W48vTH9em&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: miltbrown51@yahoo.com
+Password: 9W48vTH9em
+Status: Active
+Exp Date: 2026-01-29 08:32:04 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Louzangeles&password=96834louz&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Louzangeles
+Password: 96834louz
+Status: Active
+Exp Date: 2026-05-14 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP012351751965675510&password=70ececbea209&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP012351751965675510
+Password: 70ececbea209
+Status: Active
+Exp Date: 2026-07-08 14:37:55 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP019071758114934626&password=45a44d748df3&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP019071758114934626
+Password: 45a44d748df3
+Status: Active
+Exp Date: 2026-09-17 18:45:34 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Osmarboel4k&password=Cliente5072&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Osmarboel4k
+Password: Cliente5072
+Status: Active
+Exp Date: 2026-02-19 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=VM121637&password=666757691216&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: VM121637
+Password: 666757691216
+Status: Active
+Exp Date: 2026-02-17 09:10:08 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=sudolm2@gmail.com&password=sudolm2@2023&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: sudolm2@gmail.com
+Password: sudolm2@2023
+Status: Active
+Exp Date: 2026-02-18 00:06:29 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=muf2luv@yahoo.com&password=muf2luv@2023&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: muf2luv@yahoo.com
+Password: muf2luv@2023
+Status: Active
+Exp Date: 2026-09-18 05:39:17 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56993707541playtv&password=140224playtv&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56993707541playtv
+Password: 140224playtv
+Status: Active
+Exp Date: 2026-04-17 08:21:43 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=dremetek@yahoo.com&password=dremetek@63&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: dremetek@yahoo.com
+Password: dremetek@63
+Status: Active
+Exp Date: 2026-12-06 10:30:00 IST
+Connections: 2 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=jGt6bS&password=170409&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: jGt6bS
+Password: 170409
+Status: Active
+Exp Date: 2026-08-19 09:30:00 IST
+Connections: 0 / 8
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=EdisSkrijeL&password=9OO5T92Zi2&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: EdisSkrijeL
+Password: 9OO5T92Zi2
+Status: Active
+Exp Date: 2026-06-02 13:48:00 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=RRPLTVcoban19&password=tKPFmQqQB5&type=m3u_plus
+Host: http://593zona.live:8080
+Username: RRPLTVcoban19
+Password: tKPFmQqQB5
+Status: Active
+Exp Date: 2026-02-07 05:58:43 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=0QgnMM&password=235554&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 0QgnMM
+Password: 235554
+Status: Active
+Exp Date: 2026-02-28 10:30:00 IST
+Connections: 0 / 10
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=mnspatterson@gmail.com&password=4u3hWUU9DQ&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: mnspatterson@gmail.com
+Password: 4u3hWUU9DQ
+Status: Active
+Exp Date: 2026-02-23 13:28:07 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56930116113playtv&password=270225play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56930116113playtv
+Password: 270225play
+Status: Active
+Exp Date: 2026-03-02 03:49:00 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56961344931wspactiva&password=17062024activa&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56961344931wspactiva
+Password: 17062024activa
+Status: Active
+Exp Date: 2026-02-08 20:52:08 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=gambletrey654@gmail.com&password=gambletrey654@2024&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: gambletrey654@gmail.com
+Password: gambletrey654@2024
+Status: Active
+Exp Date: 2026-01-27 08:04:09 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Rodrigo_garcia&password=Rodg953183341&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Rodrigo_garcia
+Password: Rodg953183341
+Status: Active
+Exp Date: 2026-02-02 22:57:48 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=Anthony91&password=Anthony91&type=m3u_plus
+Host: http://593zona.live:8080
+Username: Anthony91
+Password: Anthony91
+Status: Active
+Exp Date: 2026-01-31 21:22:47 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=migszi@msn.com&password=VkJ8cCetfm&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: migszi@msn.com
+Password: VkJ8cCetfm
+Status: Active
+Exp Date: 2026-06-26 03:12:18 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=thomashttt@gmail.com&password=uNn6Te0LB3&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: thomashttt@gmail.com
+Password: uNn6Te0LB3
+Status: Active
+Exp Date: 2026-06-18 05:46:27 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP01237172633177397&password=4a7b2c6bb8cf&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP01237172633177397
+Password: 4a7b2c6bb8cf
+Status: Active
+Exp Date: 2026-04-14 22:06:13 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=JB5qxn&password=092768&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: JB5qxn
+Password: 092768
+Status: Active
+Exp Date: 2026-11-15 10:30:00 IST
+Connections: 3 / 8
+
+--------------------------------------------------
+URL: http://ultrapremium.cloud:8080/get.php?username=saldias864546&password=864546saldias&type=m3u_plus
+Host: http://ultrapremium.cloud:8080
+Username: saldias864546
+Password: 864546saldias
+Status: Active
+Exp Date: 2026-07-04 06:20:33 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP013391734531880283&password=e5b0de1e8b44&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP013391734531880283
+Password: e5b0de1e8b44
+Status: Active
+Exp Date: 2028-01-18 19:54:40 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56985753764w&password=120225zp&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56985753764w
+Password: 120225zp
+Status: Active
+Exp Date: 2026-04-17 04:57:13 IST
+Connections: 6 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=wjpinsent@nf.sympatico.ca&password=7368@8637&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: wjpinsent@nf.sympatico.ca
+Password: 7368@8637
+Status: Active
+Exp Date: 2026-02-15 04:38:45 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=Gizvid158@giz.com&password=1234@4321&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: Gizvid158@giz.com
+Password: 1234@4321
+Status: Active
+Exp Date: 2026-03-06 21:50:59 IST
+Connections: 2 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=59406810&password=59406810&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 59406810
+Password: 59406810
+Status: Active
+Exp Date: 2026-02-04 00:02:10 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP01259171989306886&password=564baf04e4d2&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP01259171989306886
+Password: 564baf04e4d2
+Status: Active
+Exp Date: 2026-08-02 09:34:28 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=18488841&password=18488841&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 18488841
+Password: 18488841
+Status: Active
+Exp Date: 2026-04-18 07:58:49 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=bFA8r5&password=978835&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: bFA8r5
+Password: 978835
+Status: Active
+Exp Date: 2026-05-12 09:30:00 IST
+Connections: 3 / 5
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=zacharysaunders61@gmail.com&password=zacharysaunders61@24&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: zacharysaunders61@gmail.com
+Password: zacharysaunders61@24
+Status: Active
+Exp Date: 2026-04-20 09:30:00 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=19992223073&password=mauri197302&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: 19992223073
+Password: mauri197302
+Status: Active
+Exp Date: 2026-02-05 00:37:07 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=maeportela&password=SXm5S4SXrv&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: maeportela
+Password: SXm5S4SXrv
+Status: Active
+Exp Date: 2026-02-24 05:29:59 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP01421759944183995&password=0d995f6e5655&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP01421759944183995
+Password: 0d995f6e5655
+Status: Active
+Exp Date: 2026-10-08 22:53:03 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP012951731119425128&password=ce61096edcef&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP012951731119425128
+Password: ce61096edcef
+Status: Active
+Exp Date: 2026-02-09 08:00:25 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP017821759423376411&password=032010a92418&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP017821759423376411
+Password: 032010a92418
+Status: Active
+Exp Date: 2026-10-02 22:12:56 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56961404085play&password=280524play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56961404085play
+Password: 280524play
+Status: Active
+Exp Date: 2026-02-11 23:37:29 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56932400036playtv&password=110323play&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56932400036playtv
+Password: 110323play
+Status: Active
+Exp Date: 2026-03-04 05:20:01 IST
+Connections: 6 / 3
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56941779983wspztv&password=110924ztv&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56941779983wspztv
+Password: 110924ztv
+Status: Active
+Exp Date: 2026-02-09 03:39:39 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=fabriciomgodoi1&password=5083715604&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: fabriciomgodoi1
+Password: 5083715604
+Status: Active
+Exp Date: 2026-02-09 02:24:55 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=adrianchumbi1104&password=gcmeBvwxKL4d&type=m3u_plus
+Host: http://593zona.live:8080
+Username: adrianchumbi1104
+Password: gcmeBvwxKL4d
+Status: Active
+Exp Date: 2026-04-20 15:37:03 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=nXmmT7&password=622090&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: nXmmT7
+Password: 622090
+Status: Active
+Exp Date: 2026-06-25 21:29:06 IST
+Connections: 5 / 10
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Tati21998854&password=umiyQLzE7D&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Tati21998854
+Password: umiyQLzE7D
+Status: Active
+Exp Date: 2026-02-15 05:29:59 IST
+Connections: 1 / 1
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=77595469&password=201123zero&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 77595469
+Password: 201123zero
+Status: Active
+Exp Date: 2026-04-12 04:53:32 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=45160509&password=45160509&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: 45160509
+Password: 45160509
+Status: Active
+Exp Date: 2026-02-02 00:50:31 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Batista97414&password=392272730088&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Batista97414
+Password: 392272730088
+Status: Active
+Exp Date: 2026-02-17 05:29:59 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://gi6.1ott.club:8080/get.php?username=KEdfkBZooV&password=1LNoo5VqKP&type=m3u_plus
+Host: http://gi6.1ott.club:8080
+Username: KEdfkBZooV
+Password: 1LNoo5VqKP
+Status: Active
+Exp Date: 2026-10-09 02:29:14 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://593zona.live:8080/get.php?username=56955113657w&password=190325act&type=m3u_plus
+Host: http://593zona.live:8080
+Username: 56955113657w
+Password: 190325act
+Status: Active
+Exp Date: 2026-02-11 23:50:18 IST
+Connections: 0 / 3
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=Silvana02813&password=Quartoconfortoo&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: Silvana02813
+Password: Quartoconfortoo
+Status: Active
+Exp Date: 2026-01-28 22:03:01 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP016181761567752102&password=093a3277d965&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP016181761567752102
+Password: 093a3277d965
+Status: Active
+Exp Date: 2026-01-27 17:52:32 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP017191763148073116&password=9fc66b034f51&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP017191763148073116
+Password: 9fc66b034f51
+Status: Active
+Exp Date: 2026-11-15 00:51:13 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=rforbes112@gmail.com&password=R3865764703F&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: rforbes112@gmail.com
+Password: R3865764703F
+Status: Active
+Exp Date: 2026-02-17 04:21:53 IST
+Connections: 0 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=19998728046&password=eli19734848&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: 19998728046
+Password: eli19734848
+Status: Active
+Exp Date: 2026-02-11 03:43:42 IST
+Connections: 0 / 2
+
+--------------------------------------------------
+URL: http://vipbhbiss.top:8080/get.php?username=VIP01241172717723899&password=c22f5f0ba41f&type=m3u_plus
+Host: http://vipbhbiss.top:8080
+Username: VIP01241172717723899
+Password: c22f5f0ba41f
+Status: Active
+Exp Date: 2027-02-24 17:57:18 IST
+Connections: 0 / 1
+
+--------------------------------------------------
+URL: http://cord-cutter.net:8080/get.php?username=fenesse7@gmail.com&password=RDjcnr9JfT&type=m3u_plus
+Host: http://cord-cutter.net:8080
+Username: fenesse7@gmail.com
+Password: RDjcnr9JfT
+Status: Active
+Exp Date: 2026-03-16 06:41:11 IST
+Connections: 1 / 5
+
+--------------------------------------------------
+URL: http://site.poupadefrutas.shop:80/get.php?username=nadgabn&password=Rm8128&type=m3u_plus
+Host: http://site.poupadefrutas.shop:80
+Username: nadgabn
+Password: Rm8128
+Status: Active
+Exp Date: 2026-02-22 05:29:59 IST
+Connections: 0 / 2
